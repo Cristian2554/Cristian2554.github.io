@@ -16,4 +16,10 @@
   margin-bottom: 1em 0; /* optional, gives nice spacing */
 }
 
+.center-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 @import "{{ site.theme }}";
