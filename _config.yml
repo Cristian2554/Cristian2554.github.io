@@ -34,6 +34,9 @@ plugins:
 baseurl: /
 url: https://Cristian2554.github.io/  # the base hostname and protocol for your site, e.g. http://example.com
 
+sass:
+  style: compressed
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
